@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "Редактирование услуги:",
+      "type": "text",
+      "id": "Field_1yhvqj9"
+    },
+    {
+      "label": "Имя",
+      "type": "textfield",
+      "id": "Field_1tmhm7k",
+      "key": "fName"
+    },
+    {
+      "action": "submit",
+      "label": "Сохранить",
+      "type": "button",
+      "id": "Field_03v9szb",
+      "key": "field_0h7n454"
+    }
+  ],
+  "type": "default",
+  "id": "EditForm"
+}

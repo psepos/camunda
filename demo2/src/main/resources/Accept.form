@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Акцептовать",
+      "type": "checkbox",
+      "id": "Field_1l6oey7",
+      "key": "Accept"
+    },
+    {
+      "action": "submit",
+      "label": "Сохранить",
+      "type": "button",
+      "id": "Field_1s57h9u",
+      "key": "field_1fw7im6"
+    }
+  ],
+  "type": "default",
+  "id": "AcceptForm"
+}
